@@ -14,7 +14,7 @@ Junior Front-Ent Developer. Proficiency in several programming languages, I conf
 * https://pastebin.com/u/AlexK113/
 * https://github.com/Wealldie113/rsschool-cv
 
-Code example
+### Code example
 
 stage = +prompt('На який поверх їдемо?');
 
